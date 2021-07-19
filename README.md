@@ -1,6 +1,6 @@
 - Módulo 1: Fundamentos do Desenvolvimento Web
 ->Bloco 01: Unix & Bash 
-->Bloco02: Git, GitHub e Internet
+->Bloco02: Git, GitHub e  
 ->Bloco 03: Introdução à HTML e CSS
 ->Bloco 04: Introdução à JavaScript e Lógica de Programação 
 ->Bloco 05: JavaScript: DOM, Eventos e Web Storage
